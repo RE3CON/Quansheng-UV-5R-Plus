@@ -3,13 +3,22 @@
 * A = [Based on OneofEleven Firmware **(Best for SATCOM ONLY From V0.23A)**](https://github.com/OneOfEleven/uv-k5-firmware-custom)
 * B = [Based on Tunas1337 Firmware ( Also based on Dual Tachyon Firmware ) **(Best for SATCOM)**](https://github.com/Tunas1337/uv-k5-firmware)
 * C = [Based on Fagci Firmware ( Also based on Dual Tachyon Firmware ) **(Best for SATCOM)**](https://github.com/fagci/uv-k5-firmware-fagci-mod)
+* CAL = Only for Calibrate your radio
 
+* Improvement on SQL ( Thanks to **SP4UBW** )<br>
 * Podes-me encontrar no [Telegram](https://t.me/PMR446PT) (Portuguese Only) !!!<br><br>
 
-**MCFW V0.31.1C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + Added Roger Beep Motorola on the Menu + Improvement on SQL ( Thanks to **SP4UBW** ) + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + ALL TX ) <br>
-**MCFW V0.31C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Improvement on SQL ( Thanks to **SP4UBW** ) + Flashlight SOS function + Improvement in SATCOM reception + ALL TX ) <br>
+**MCFW V0.02 CAL** - Power transmitter calibration (Hi= 5W) applied to frequencies 174MHz to 349.990 MHz (SATCOM) + (Low= 0.49W Mid= 2.5W Hi= 4.95W) applied to frequencies 137 MHz to 173.990 MHz and 400 MHz to 469.990 MHz. Please Backup your Configuration first with [k5prog_win.exe](https://github.com/spm81/Quansheng_UV-K5/blob/main/Software/k5prog_win.exe) if you want to go back to your default configuration
+, Need Password to apply the calibration: 123400)<br>
+**MCFW V0.01 CAL** - Power transmitter calibration (Low= 0.49W Mid= 2.5W Hi= 4.95W) applied to frequencies 137 MHz to 173.990 MHz and 400 MHz to 469.990 MHz. Please Backup your Configuration first with [k5prog_win.exe](https://github.com/spm81/Quansheng_UV-K5/blob/main/Software/k5prog_win.exe) if you want to go back to your default configuration
+, Need Password to apply the calibration: 123400)<br>
 
-**MCFW V0.30C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-f95df07 ( Improvement on SQL ( Thanks to **SP4UBW** ) + Flashlight SOS function + Improvement in SATCOM reception + ALL TX ) <br>
+**MCFW V0.31.3C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + Upconverter shift + ALL TX ) <br>
+**MCFW V0.31.2C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Upconverter shift + ALL TX ) <br>
+**MCFW V0.31.1C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + ALL TX ) <br>
+**MCFW V0.31C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + ALL TX ) <br>
+
+**MCFW V0.30C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-f95df07 ( Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + ALL TX ) <br>
 
 **MCFW V0.29.1C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-bc9a456 ( Improvement on SQL ( Thanks to **SP4UBW** ) + Flashlight SOS function + Improvement in SATCOM reception + Small Bold + ALL TX ) <br>
 **MCFW V0.29C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-bc9a456 ( Improvement in SATCOM reception + Small Bold + ALL TX ) <br>
