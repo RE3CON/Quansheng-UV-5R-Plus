@@ -1,6 +1,6 @@
 * Podes-me encontrar no [Telegram](https://t.me/PMR446PT) (Portuguese Only) !!!<br>
 
-# Tunning Firmwares by Matoz
+# Tunning Firmwares by Matoz - Info:
 
 **MCFW V1.0 CAL** ( Password to apply: 123400 )
 <p float="left">
@@ -12,7 +12,10 @@
 **MCFW V0.01 CAL** - Power transmitter calibration (Low= 0.49W Mid= 2.5W Hi= 4.95W) applied to frequencies 137 MHz to 173.990 MHz and 400 MHz to 469.990 MHz. Please Backup your Configuration first with [k5prog_win.exe](https://github.com/spm81/Quansheng_UV-K5/blob/main/Software/k5prog_win.exe) if you want to go back to your default configuration
 , Need Password to apply the calibration: 123400)<br>
 
-# Custom Firmware by Matoz (MCFW)
+
+# Custom Firmware by Matoz (MCFW) - Info:
+<img align="center" width="530" src="Pictures/MCFW_Firmware_Logo.jpg" />
+
 * Firmware differences (ONLY ON SPECTRUM (with fagci_style_keys at the end of the file it means it's with Fagci Keys, without fagci_style_keys at the end of the file it means it's an Old Keys Style))
 * A = [Based on OneofEleven Firmware **(Best for SATCOM ONLY From V0.23A)**](https://github.com/OneOfEleven/uv-k5-firmware-custom)
 * B = [Based on Tunas1337 Firmware ( Also based on Dual Tachyon Firmware ) **(Best for SATCOM)**](https://github.com/Tunas1337/uv-k5-firmware)
@@ -20,11 +23,32 @@
 * CAL = Only for Calibrate your radio
 
 * Improvement on SQL ( Thanks to **SP4UBW** )<br>
-* Appearance of memorized channels in the spectrum ( Thanks to **joaquimorg** )<br>
-* Podes-me encontrar no [Telegram](https://t.me/PMR446PT) (Portuguese Only) !!!<br><br>
+* Thanks to [**joaquimorg**](https://github.com/joaquimorg)  for recovering Messenger originally from @piotr022 and improving it a lot also for the appearance of memorized channels in the spectrum.<br>
+* Podes-me encontrar no [Telegram](https://t.me/PMR446PT) (Portuguese Only) !!!<br>
+* **Feel free to improve my firmware** - [Here is my Source Code of MCFW](https://github.com/spm81/MCFW_UV-K5_Open_Source_Firmware)<br><br>
 
-**MCFW V0.32.0C** - Based on MCFW V0.31.xC ( With good improvement on SQL + SList Editor )
-					( FM Radio Version / Spectrum All Registers Secret Menu Version )
+<img align="left" width="530" src="Pictures/UV-K5-keypad-T9.jpg" />
+
+# Messenger Keys
+   "*" - Change keyboard, Upper case, Lower case, Numeric.<br>
+   "0" - Space, except in numeric mode.<br>
+   "F" - Backspace.<br>
+   "(Long press) F" - Clear all messages.<br>
+   "UP" - Recalls last sent message.<br>
+   "M" - Transmits message in the frequency of active VFO.<br>
+   "Exit" - Close application.<br><br>
+
+[<img src="Pictures/0.33_a.png" width="40%">](https://www.youtube.com/watch?v=JPs0xCuhtXk "MCFW V0.33.0C") [<img src="Pictures/0.33_b.png" width="40%">](https://www.youtube.com/watch?v=JPs0xCuhtXk "MCFW V0.33.0C")   
+**MCFW V0.33.0C** - Based on MCFW V0.31.xC ( With better improvement on SQL and DTMF Disabled )<br>
+**NEW on this Firmware** : Normal Screen or Negative Screen Versions + Better improvement on SQL then last version + TX RSSI Bar + Messenger with audible notification of message reception by the receiver and visual notification in case of message received on VFO + Six Rogers Beeps + Battery percentage, you need to go to the MENU to choose your battery if it is 1600mAh or 2200mAh<br>
+					**Version:**<br>
+     						* Messenger + Six Roger Beeps + FM Radio + Spectrum + SList Editor + TX RSSI Bar + Battery percentage
+	   
+**MCFW V0.32.0C** - Based on MCFW V0.31.xC ( With good improvement on SQL + SList Editor )<br>
+					* FM Radio Version <br>
+					* Spectrum All Registers Secret Menu Version <br>
+					* Messenger Version ( Thanks to [**joaquimorg**](https://github.com/joaquimorg)  for recovering Messenger originally from @piotr022 ) <br>
+					* Messenger + FM Radio - NO Spectrum App
 
 **MCFW V0.31.9C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + AM Fix + appearance of memorized channels in the spectrum ( Thanks to **joaquimorg** ) + Scan All Scan List 1+2 together + 2nd ToneBurst 1750Hz and 1050Hz = PTT + Sidekey 1, PTT + Sidekey 2 + Fast Scan like 1of11 + Added Roger Beep Motorola on the Menu + Improvement on SQL (better) + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + Upconverter shift (more frequencies) + ALL TX ) <br>
 **MCFW V0.31.8C** - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( AM Fix + appearance of memorized channels in the spectrum ( Thanks to **joaquimorg** ) + Scan All Scan List 1+2 together + 2nd ToneBurst 1750Hz and 1050Hz = PTT + Sidekey 1, PTT + Sidekey 2 + Fast Scan like 1of11 + Added Roger Beep Motorola on the Menu + Improvement on SQL (better) + Flashlight SOS function + Improvement in SATCOM reception + Upconverter shift (more frequencies) + ALL TX ) <br>
