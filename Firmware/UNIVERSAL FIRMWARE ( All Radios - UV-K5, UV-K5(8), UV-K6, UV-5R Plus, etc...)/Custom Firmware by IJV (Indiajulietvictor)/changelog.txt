@@ -1,5 +1,61 @@
 QS K5 IJV Mod Changelog 
 
+
+
+V2.9 R3
+----------------------------------------------------------------------------------
+- Modificati tempi per TxTOT e Beacon
+- aggiunto preavviso TxTOT a 10 e 5 secondi prima della chiusura 
+- modificate funzioni del tasto EXIT attive adesso solo per VFO 
+- Attivato VOX anche per le altre modulazioni tranne CW
+- attivato scrambler anche su altre modulazioni tranne CW
+- corretta l'impostazione dei livelli del VOX
+- ritardata attivazione del VOX all'avvio.
+- Aggiunta visualizzazione FM Lock in FM 88-108
+- Corretta indicazione del Beacon Attivo nel VFO
+- aggiunta protezione per salvaguardia dati su eeprom in caso di batteria scarica.
+
+- ripristinata tensione batteria nel menu INFO *
+
+  * ( considerate il valore come indicativo, a causa delle tolleranze costruttive  puo' non essere esatto, 
+    e dati i precedenti su questo non sento ragioni prendetelo cosi' com'e' e se non vi sta bene non lo guardate ). 
+    
+- riaggiustata la scala batteria 4 tacche > 8V  poi decresce 0.25V (circa) ogni tacca. **
+
+  ** ( questa scala e' una mia impostazione non si faranno variazioni di nessun tipo, vedi nota precedente )
+    
+  
+  
+
+V2.9 R2
+----------------------------------------------------------------------------------
+- Aggiunta funzione Beacon nel Menu che consente la ripetizione del messaggio in CW
+- modificati i tempi per TOT e Beacon
+- modificata voce menu da QRZ a QRA
+- Aggiunta voce al Menu 18 per visualizzazione Notturna del display
+- Il contenuto del vfo viene salvato quando si passa da Memoria a VFO
+- modificata visualizzazione iniziale scegliendo la voce MESSAGE da PONMSG vengono visualizzati 3 campi anziche' 2
+  * Nominativo
+  * Scritta 1
+  * Scritta 2
+
+- modificata anche visualizzazione iniziale tipo firmware con aggiunta della versione
+- eliminata scelta di visualizzazione del solo nominativo
+- corretto bug illuminazione display con preset
+- eliminate dal menu le voci inutili Slist 1,2 e SAdd 1,2
+- corretto bug su trasmissione CW e REGA con blocco Tx
+- corretto bug passaggio tra mem a vfo con shift per ponti attivo
+- corretto bug Clear VFO con shift attivo
+
+
+V2.9 R1
+----------------------------------------------------------------------------------
+- Corretta la spaziatura extra nel nominativo nella trasmissione automatica CW 
+- ritoccati i tempi nella trasmissione automatica CW
+- corretto BUG menu 19 dopo Reset VFO
+- aggiunto blocco trasmissione automatica CW con pulsante PTT
+
+
 V2.9
 ----------------------------------------------------------------------------------
 - Inserita funzione chiamata Automatica CW ( con QRZ ) con visualizzazione dei
@@ -14,12 +70,6 @@ V2.9
 
 - eliminata voce attivazione Scrambler dal menu servizi
 - corretto passo 8.33 si riallinea 25 Khz 
-
-R1
-- Corretta la spaziatura extra nel nominativo nella trasmissione automatica CW 
-- ritoccati i tempi nella trasmissione automatica CW
-- corretto BUG menu 19 dopo Reset VFO
-- aggiunto blocco trasmissione automatica CW con pulsante PTT
 
 
 V2.8d
