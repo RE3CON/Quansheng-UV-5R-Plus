@@ -1,6 +1,25 @@
 QS K5 IJV Mod Changelog 
 
 
+V2.9 R5     30-01-24
+----------------------------------------------------------------------------------
+- aggiunto Squelch differenziato per singolo VFO
+- il cambio dello squelch da pulsanti laterali adesso salva l'ultimo valore.
+- aggiunta visualizzazione Frequenze e codici toni CTCSS e DCS nel VFO Singolo
+- accorpate sigle VFO per recuperare spazio 
+
+
+
+V2.9 R4     27-01-24
+----------------------------------------------------------------------------------
+- aggiunto blocco/sblocco tastiera in scansione
+- evitato blocco automatico tastiera se si e' dentro il menu
+- ripristinato scrambler e compander solo in FM in altri tipi di modulazioni non funziona.
+- verifica immediata scrambler in ricezione da menu.
+- risolto il Bug del Vox in AM e DSB
+- aumentato il timeout del Vox da 1 secondo a 2 secondi.
+
+
 
 V2.9 R3
 ----------------------------------------------------------------------------------
